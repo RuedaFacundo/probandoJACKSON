@@ -20,7 +20,7 @@ public class Main {
         listaVehiculos.add(zanella);
         listaVehiculos.add(berlingo);
 
-        File file = new File("C:\\Users\\facun\\OneDrive\\Desktop\\Programacion3\\probandoJACKSON\\src\\com\\company\\dale.json");
+        File file = new File("C:\\Users\\facun\\OneDrive\\Desktop\\Programacion3\\probandoJACKSON\\src\\com\\company\\vehiculos.json");
 /*
         if(file.exists()){
             for (Vehiculo vehiculo: listaVehiculos){
